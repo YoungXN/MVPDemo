@@ -1,0 +1,54 @@
+
+.sum{
+    width: 896px;
+    height: 800px;
+    border: 3px solid #F4F4F4;
+    margin: 0 auto;
+}
+/*.sum_1{
+    width: 898px;
+    height: 300px;
+    border: 1px solid seagreen;  
+    display: inline;
+}*/
+.sum_1{
+    margin-left: 5px;
+    
+}
+h3,p{
+   
+    
+}
+.sum_4{
+    margin-left:40px;
+    display: inline;
+
+}
+.sum_5{
+    font-weight: bold;
+    font-size: 16px;
+    margin-left:10px;
+    display: inline;
+    
+}
+.sum_2{
+    margin-left:0px;
+}
+.sum_3{
+    color: #3852E9;
+}
+h4{
+    font-weight: bold;
+}
+.sum_6{
+    margin-top: -22px;
+}
+.but{
+    bottom: 0;
+    left: 0;
+    
+    margin-top: 40px;
+}
+.clearfix {
+    overflow: auto;
+  }
